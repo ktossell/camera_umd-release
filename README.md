@@ -1,3 +1,29 @@
+## camera_umd (lunar) - 0.2.5-0
+
+The packages in the `camera_umd` repository were released into the `lunar` distro by running `/home/k-okada/catkin_ws/ws_rosdep/bloom/devel/bin/bloom-release camera_umd --rosdistro lunar --track lunar --edit` on `Wed, 14 Jun 2017 15:26:52 -0000`
+
+These packages were released:
+- `camera_umd`
+- `jpeg_streamer`
+- `uvc_camera`
+
+Version of package(s) in repository `camera_umd`:
+
+- upstream repository: https://github.com/ros-drivers/camera_umd.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.5-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## camera_umd (kinetic) - 0.2.5-0
 
 The packages in the `camera_umd` repository were released into the `kinetic` distro by running `/home/k-okada/catkin_ws/ws_rosdep/bloom/devel/bin/bloom-release camera_umd --rosdistro kinetic --track kinetic --edit` on `Wed, 14 Jun 2017 15:21:51 -0000`
