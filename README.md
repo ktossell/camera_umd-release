@@ -1,3 +1,29 @@
+## camera_umd (melodic) - 0.2.6-0
+
+The packages in the `camera_umd` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -y camera_umd --rosdistro melodic --track melodic` on `Thu, 30 Aug 2018 03:52:02 -0000`
+
+These packages were released:
+- `camera_umd`
+- `jpeg_streamer`
+- `uvc_camera`
+
+Version of package(s) in repository `camera_umd`:
+
+- upstream repository: https://github.com/ros-drivers/camera_umd.git
+- release repository: https://github.com/ros-drivers-gbp/camera_umd-release.git
+- rosdistro version: `0.2.5-0`
+- old version: `0.2.5-0`
+- new version: `0.2.6-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## camera_umd (melodic) - 0.2.5-0
 
 The packages in the `camera_umd` repository were released into the `melodic` distro by running `/usr/bin/bloom-release camera_umd -y --track melodic --rosdistro melodic` on `Wed, 29 Aug 2018 07:03:10 -0000`
