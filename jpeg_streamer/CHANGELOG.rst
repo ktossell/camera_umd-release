@@ -2,6 +2,9 @@
 Changelog for package jpeg_streamer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.6 (2018-08-30)
+------------------
+
 0.2.5 (2017-06-15)
 ------------------
 * add ROS Orphaned Package Maintainers to maintainer tag
